@@ -4,6 +4,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ku-women-in-computing)
 [![Instagram](https://img.shields.io/badge/-Instagram-cd486b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ku_wic/)
 
+
+
+## I cloned this repo as a part of our very first website meeting for WIC 9/18/24! We currently have 16 forks of this repo!!
+## I <3 WIC
+
 The University of Kansas Women in Computing organization is a student-led club established to uphold women and nonbinary people in tech. We offer opportunities to develop technical and proffessional skills and have built a strong community centered around tech. 
 
 ## ⚙️Industry⚙️
